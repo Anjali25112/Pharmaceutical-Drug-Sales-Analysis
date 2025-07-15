@@ -1,6 +1,8 @@
 ## Pharmaceutical Drug Sales Analysis 
 
 ### Objective : To analyze and visualize pharmaceutical drug sales patterns across time (weekly, monthly, hourly) and categories using Power BI, with the goal of identifying high-performing drug groups, seasonal trends, and opportunities for sales optimization.
+
+This interactive Power BI dashboard explores drug sales performance across multiple pharmaceutical categories over time. It provides insights into weekly, monthly, and hourly sales trends, highlights top-selling drug classes like N02BE and M01AE, and identifies seasonal patterns and category-level growth opportunities. Designed to support business teams in making data-driven decisions related to marketing focus, inventory planning, and field force targeting.
 #### Key Features
 - Weekly, Monthly & Hourly Sales Dashboards
 
